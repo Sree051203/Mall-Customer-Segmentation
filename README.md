@@ -47,16 +47,20 @@ It also includes an **interactive dashboard** built with **Plotly Dash** to expl
 ## 🚀 How to Run
 
 1️⃣ **Clone the repository**
+
 git clone https://github.com/Sree051203/Mall-Customer-Segmentation.git
 cd Mall-Customer-Segmentation
 
 2️⃣ **Install dependencies**
+
 pip install -r requirements.txt
 
 3️⃣ **Run clustering script**
+
 python customer_segmentation.py
 
 4️⃣ **Launch dashboard**
+
 python app.py
 
 ## ✅ Results
