@@ -49,6 +49,7 @@ It also includes an **interactive dashboard** built with **Plotly Dash** to expl
 1️⃣ **Clone the repository**
 
 git clone https://github.com/Sree051203/Mall-Customer-Segmentation.git
+
 cd Mall-Customer-Segmentation
 
 2️⃣ **Install dependencies**
@@ -65,7 +66,9 @@ python app.py
 
 ## ✅ Results
 Distinct segments based on income & spending.
+
 Helps plan marketing strategies.
+
 Dashboard makes insights interactive & clear.
 
 ## 📜 License
