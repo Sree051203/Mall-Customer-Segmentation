@@ -34,9 +34,8 @@ It also includes an **interactive dashboard** built with **Plotly Dash** to expl
 - **2D PCA Plot:** Visualizes clusters.
 - **Interactive Dashboard:** Filter & explore segments.
 
-![Elbow Method](fig_1)  
-![Customer Clusters](fig_2)
-
+![Elbow Method](Elbow%20Method(fig_1).png)  
+![Customer Clusters](Clusters%20of%20customers(fig_2).png)
 ---
 
 ## 🎥 Demo Video
